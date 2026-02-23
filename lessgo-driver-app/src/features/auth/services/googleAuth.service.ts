@@ -11,7 +11,7 @@ export function useGoogleSignIn() {
     redirectUri: makeRedirectUri(),
   });
 
- console.log("Request object:", request);
+ console.log("Request objects:", request);
 console.log("Redirect URI being used:", request?.redirectUri);
 
   return { request, response, promptAsync };
