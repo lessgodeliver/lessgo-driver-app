@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698155839231",
+    "project_id": "lessgo-app",
+    "storage_bucket": "lessgo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698155839231:android:2ed723df238cb3635e26ca",
+        "android_client_info": {
+          "package_name": "com.lessgo.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698155839231-afnhklt7feamfna1dl6hqv01tsobvarp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIP_a0WwrjhwflAJUQ5uFipaFHP8vn9R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698155839231-afnhklt7feamfna1dl6hqv01tsobvarp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
