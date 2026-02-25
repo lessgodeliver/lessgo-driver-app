@@ -20,7 +20,8 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-       "googleServicesFile": "./google-services.json"
+      "googleServicesFile": "./google-services.json",
+      "package": "com.lessgodeliver.driverapp"
     },
     "web": {
       "output": "static",

@@ -1,6 +1,6 @@
+import { makeRedirectUri } from "expo-auth-session";
 import * as Google from "expo-auth-session/providers/google";
 import * as WebBrowser from "expo-web-browser";
-import { makeRedirectUri } from "expo-auth-session";
 
 WebBrowser.maybeCompleteAuthSession();
 
@@ -11,8 +11,8 @@ export function useGoogleSignIn() {
     redirectUri: makeRedirectUri(),
   });
 
- console.log("Request objects:", request);
-console.log("Redirect URI being used:", request?.redirectUri);
+  console.log("Request objects:", request);
+  console.log("Redirect URI being used:", request?.redirectUri);
 
   return { request, response, promptAsync };
 }
