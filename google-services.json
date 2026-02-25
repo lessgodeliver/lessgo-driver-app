@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698155839231:android:1c347ead8dc8c2375e26ca",
+        "android_client_info": {
+          "package_name": "com.lessgodeliver.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698155839231-afnhklt7feamfna1dl6hqv01tsobvarp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIP_a0WwrjhwflAJUQ5uFipaFHP8vn9R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698155839231-afnhklt7feamfna1dl6hqv01tsobvarp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
